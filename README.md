@@ -41,7 +41,7 @@ real-time-ai-backend/
 ├── requirements.txt              # Python dependencies
 ├── schema.sql                    # Supabase database schema
 ├── simple_frontend.html          # WebSocket testing interface
-├── .env.example                  # Environment variables template
+├── .env                         # Environment variables template
 ├── run.bat                       # Windows startup script
 └── README.md                     # This documentation
 ```
